@@ -1,0 +1,11 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+venv/
+
+# OS related
+.DS_Store
+
+# Files related to this project
+datasets/
